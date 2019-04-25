@@ -51,3 +51,5 @@ Un component doit afficher un indicateur de loading quand une requête HTTP est 
 ### Exercice 7:
 
 Ajouter un middleware qui enrichie d'un "correlationId" toutes les actions.
+
+Enjoy!
